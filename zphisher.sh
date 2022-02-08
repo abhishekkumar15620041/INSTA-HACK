@@ -153,7 +153,7 @@ banner() {
 		${ORANGE}      | |                                
 		${ORANGE}      |_|                ${RED}Version : 2.2
 
-		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by htr-tech (tahmid.rayat)${WHITE}
+		${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Abhishek Kumar (Abhi)${WHITE}
 	EOF
 }
 
@@ -294,9 +294,9 @@ msg_exit() {
 about() {
 	{ clear; banner; echo; }
 	cat <<- EOF
-		${GREEN}Author   ${RED}:  ${ORANGE}TAHMID RAYAT ${RED}[ ${ORANGE}HTR-TECH ${RED}]
-		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/htr-tech
-		${GREEN}Social   ${RED}:  ${CYAN}https://linktr.ee/tahmid.rayat
+		${GREEN}Author   ${RED}:  ${ORANGE}Abhishek Kumar ${RED}[ ${ORANGE}abhishek ${RED}]
+		${GREEN}Github   ${RED}:  ${CYAN}https://github.com/abhishekkumar15620041
+		${GREEN}Social   ${RED}:  ${CYAN}https://instragram.com/riskyboy97174t
 		${GREEN}Version  ${RED}:  ${ORANGE}2.2
 
 		${REDBG}${WHITE} Thanks : Adi1090x,MoisesTapia,ThelinuxChoice
@@ -383,7 +383,7 @@ start_ngrok() {
 	echo -ne "\n\n${RED}[${WHITE}-${RED}]${GREEN} Launching Ngrok..."
 
     if [[ `command -v termux-chroot` ]]; then
-        sleep 2 && termux-chroot ./.server/ngrok http "$HOST":"$PORT" > /dev/null 2>&1 & # Thanks to Mustakim Ahmed (https://github.com/BDhackers009)
+        sleep 2 && termux-chroot ./.server/ngrok http "$HOST":"$PORT" > /dev/null 2>&1 & # Thanks to Abhishek Kumar (https://github.com/abhishekkumar15620041)
     else
         sleep 2 && ./.server/ngrok http "$HOST":"$PORT" > /dev/null 2>&1 &
     fi
