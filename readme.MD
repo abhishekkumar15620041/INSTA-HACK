@@ -154,6 +154,6 @@ $ docker run --rm -it abhishekkumar15620041/zphisher
 ### Find Me on :
 <p align="left">
   <a href="https://github.com/abhishekkumar15620041" target="_blank"><img src="https://img.shields.io/badge/Github-abhishekkumar15620041-green?style=for-the-badge&logo=github"></a>
-  <a href="https://www.instagram.com/riskyboy97174" target="_blank"><img src="https://img.shields.io/badge/IG-%40tahmid.rayat-red?style=for-the-badge&logo=instagram"></a>
+  <a href="https://www.instagram.com/riskyboy97174" target="_blank"><img src="https://img.shields.io/badge/IG-%40riskyboy97174-red?style=for-the-badge&logo=instagram"></a>
   <a href="https://m.me/riskyboy97174" target="_blank"><img src="https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger"></a>
 </p>
